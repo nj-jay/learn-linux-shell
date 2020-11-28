@@ -14,6 +14,8 @@ try to free your hands
 
 于是想把常用的总结在这个项目
 
+GOGOGO!!!
+
 ## 目录
 
 [查看目录](index.md)
